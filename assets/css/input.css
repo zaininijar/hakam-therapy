@@ -18,4 +18,10 @@
   .__card-benefit {
     @apply border p-4 rounded-xl hover:shadow-lg cursor-help;
   }
+  .__sidebar-link-active {
+    @apply block  py-2.5 px-4 my-4 rounded transition duration-200 bg-gradient-to-r from-emerald-600 to-emerald-300 text-white;
+  }
+  .__sidebar-link {
+    @apply block text-emerald-800 py-2.5 px-4 my-4 rounded transition duration-200 hover:bg-gradient-to-r hover:from-emerald-600 hover:to-emerald-300 hover:text-white;
+  }
 }

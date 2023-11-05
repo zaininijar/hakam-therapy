@@ -157,6 +157,7 @@ if (isset($_POST['done'])) {
                                 <option value="Kamis">Kamis</option>
                                 <option value="Jumat">Jumat</option>
                                 <option value="Sabtu">Sabtu</option>
+                                <option value="Minggu">Minggu</option>
                             </select>
                             <input required type="date" name="date" id="date"
                                 placeholder="Isikan nama kota/kabupaten anda"
@@ -184,7 +185,7 @@ if (isset($_POST['done'])) {
                             Pembayaran
                         </label>
                         <div class="flex">
-                            <input required type="text" name="price" id="price" placeholder="Rp."
+                            <input required type="number" name="price" id="price" placeholder="Rp."
                                 class="__input-text rounded-r-none w-2/3" />
                             <select class="__input-text border-l-0 rounded-l-none w-1/3" name="type_payment"
                                 id="type_payment">
