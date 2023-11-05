@@ -38,7 +38,11 @@ $result = $stmt->fetchAll();
         </div>
     </div>
     <?php endif; ?>
-    <div class="flex justify-end mt-8">
+    <div class="flex justify-end mt-8 gap-3">
+        <a class="bg-gradient-to-tr from-emerald-200 to-emerald-50 text-emerald-700 px-4 py-2 shadow rounded-lg"
+            target="_blank" href="<?= $base_url ?>admin/report/register-report.php">
+            Report Pdf
+        </a>
         <a class="bg-gradient-to-tr from-emerald-200 to-emerald-50 text-emerald-700 px-4 py-2 shadow rounded-lg"
             href="<?= $base_url ?>admin/register/register-add.php">
             Tambah Data
