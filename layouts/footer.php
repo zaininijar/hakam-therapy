@@ -1,6 +1,6 @@
 <section class="mt-24 bg-gradient-to-tr from-emerald-300 to-white pb-12 pt-12">
     <div class="container mx-auto md:px-20 px-4">
-        <h2 class="text-2xl text-center text-emerald-800">Kontak Kami</h2>
+        <h2 class="text-2xl text-center text-emerald-800 font-bold">Kontak Kami</h2>
         <div class="grid md:grid-cols-5 gap-4 mt-8">
             <div class="w-full rounded-md overflow-hidden ">
                 <a href="https://wa.me/6283895672477"

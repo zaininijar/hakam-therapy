@@ -28,6 +28,34 @@
             </div>
         </div>
     </section>
+    <section>
+        <div class="my-24">
+            <div class="container mx-auto md:px-20 px-4">
+                <h2 class="text-2xl text-center text-emerald-800 font-bold">Manfaat Therapy pijat dan Bekam</h2>
+                <div class="mt-8">
+                    <ul class="__benefits-container">
+                        <li class="__card-benefit md:col-span-2">
+                            Tuntaskan Rasa Sakit Tubuh dengan Terapi Pijat dan Bekam Tradisional
+                        </li>
+                        <li class="__card-benefit md:col-span-2">
+                            Hadirkan Kembali Energi dan Semangat Hidup dengan Terapi Bekam dan Pijat
+                        </li>
+                        <li class="__card-benefit md:col-span-2">
+                            Rasakan Perubahan Positif dalam Tenggang Waktu Singkat dengan Terapi Pijat dan Bekam Kami
+                        </li>
+                        <li class="__card-benefit md:col-span-3">
+                            Temukan Kembali Kenyamanan Tubuh dan Maksimalkan Produktivitasmu dengan Terapi Pijat dan
+                            Bekam Berkualitas Tinggi
+                        </li>
+                        <li class="__card-benefit md:col-span-3">
+                            Hilangkan Segala Ketegangan Tubuh dan Perbaiki Sirkulasi Darah dengan Terapi Pijat dan Bekam
+                            Holistik Kami
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="mt-8">
         <div class="container mx-auto md:px-20 px-4">
             <div class="grid md:grid-cols-3 gap-4">

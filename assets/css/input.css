@@ -12,4 +12,10 @@
   .__textarea {
     @apply w-full resize-none rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-light text-[#6B7280] outline-none focus:border-emerald-500 focus:shadow-md;
   }
+  .__benefits-container {
+    @apply grid md:grid-cols-6 gap-3;
+  }
+  .__card-benefit {
+    @apply border p-4 rounded-xl hover:shadow-lg cursor-help;
+  }
 }
