@@ -20,9 +20,9 @@ $base_url = "http://localhost:8080/";
     <div class="flex flex-col h-screen bg-gray-100">
         <div class="bg-white shadow w-full md:px-8 px-4 py-6 flex  items-center justify-between">
             <div class="flex items-center justify-between w-full">
-                <div class="flex items-center">
+                <a href="<?= $base_url ?>" class="flex items-center">
                     <h2 class="font-bold text-xl">Hakam <span class="text-emerald-600">Therapy</span></h2>
-                </div>
+                </a>
                 <div class="md:hidden flex items-center">
                     <button id="menuBtn">
                         <i class="fas fa-bars text-gray-500 text-lg"></i>
