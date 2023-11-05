@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .__dropdown-menu {
+    @apply w-48 overflow-hidden bg-white rounded-md shadow absolute top-12 right-3;
+  }
+  .__input-text {
+    @apply w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-light text-[#6B7280] outline-none focus:border-emerald-500 focus:shadow-md;
+  }
+  .__textarea {
+    @apply w-full resize-none rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-light text-[#6B7280] outline-none focus:border-emerald-500 focus:shadow-md;
+  }
+}
